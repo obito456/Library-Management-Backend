@@ -26,5 +26,4 @@ public class Book {
     private boolean isAvailable;
     @Lob
     private byte[] photo;
-
 }
